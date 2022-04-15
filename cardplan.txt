@@ -1,0 +1,41 @@
+card types: Inquisitor, Warden, Armour, Troop, Spell & Command
+card categories: Champion (ch), Avion (av), Martial (mt) & Mage (mg)
+
+Inquisitor and Warden cards have command points
+The goal of the game is to defeat all the enemy players Inquisitor and Warden cards (max of 3 total per deck)
+Troops require the least command points, armour mid, and spell & command the most
+Spell cards require Inquisitor or Warden cards of the Mage category
+Command cards require Inquisitor or Warden cards of the Martial category
+Champion category cards allow for both Spell & Command cards
+
+Inquisitor and Warden cards have a control points stat, with one cp = 1 move,
+2 cp per active Inquisitor or Warden card can be used per turn.
+cp can be used to give armour and troop cards orders (1cp per order),
+or to call on spell and command cards (3cp per card).
+
+gameplay:
+Each player's deck is comprised of random cards, and one title card that is of the type Inquisitor or Warden.
+Each player deploys their title card, and draws 5 other cards, choosing 3 to deploy.
+In turns, players decide on their card's next orders, these can include:
+- deploying or extracting a card (a max of two cards can be deployed  or extracted each turn, 
+this does not include spell or command cards.)
+- sending a card to attack an opponent's card
+- setting a card to protect another card
+- activating a spell card
+all enemy armour and troop cards must be destroyed before the warden and Inquisitor cards can be attacked,
+Avion category cards can attack directly.
+Cards with a shield will take damage to the shield before xp
+
+ideas: 
+basedness & badeness
+capture points
+
+id: 1i, 1w, 1t, 1s
+name:
+artwork: ./img/artwork.png
+category: 
+hp:
+atk:
+----------------------------
+cp:
+shield:

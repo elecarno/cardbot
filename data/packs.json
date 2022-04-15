@@ -1,0 +1,26 @@
+{
+    "b1": {
+        "name": "Troop Pack",
+        "cards": [
+            "t1", "t2", "t3", "t4", "t5", "t6", "t7", "t8", "t9", "t10", "t11", "t12", "t13", "t14", "t15", "t16"
+        ],
+        "amount": 20,
+        "colour": "ffffff"
+    },
+    "b2": {
+        "name": "Warden Pack",
+        "cards": [
+            "w1", "w2", "w3", "w4", "w5", "w6"
+        ],
+        "amount": 3,
+        "colour": "ffffff"
+    },
+    "b3": {
+        "name": "Spell & Command Pack",
+        "cards": [
+            "c1", "c2", "c3"
+        ],
+        "amount": 15,
+        "colour": "ffffff"
+    }
+}

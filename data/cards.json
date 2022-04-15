@@ -1,0 +1,217 @@
+{
+    "t1": {
+        "name": "IHC Ranger",
+        "thumb": "https://cdnb.artstation.com/p/assets/images/images/042/727/303/large/the-friedturkey-ranger013.jpg?1635282640",
+        "ctg": "mt",
+        "hp": 25,
+        "atk": 10,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t2": {
+        "name": "Anarchist Ranger",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Royal_Marines_snipers_displaying_their_L115A1_rifles.jpg",
+        "ctg": "mt",
+        "hp": 20,
+        "atk": 15,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t3": {
+        "name": "Nerf Swat",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964225673759703060/092a925a04ca6d5ae7c876c5bfa910dd.png",
+        "ctg": "mt",
+        "hp": 25,
+        "atk": 18,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t4": {
+        "name": "Ultimate Sniper",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964225673088606278/b9ed622b6a3e3838306e2e4ef1fd4cd7.png",
+        "ctg": "mt",
+        "hp": 15,
+        "atk": 30,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t5": {
+        "name": "Focused Mr. Gray",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964226427664887808/Snapchat-1823775970.jpg",
+        "ctg": "ma",
+        "hp": 7,
+        "atk": 12,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t6": {
+        "name": "Hoodie Sleeper",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964226884927889568/IMG_20200816_134041.jpg",
+        "ctg": "ma",
+        "hp": 5,
+        "atk": 15,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t7": {
+        "name": "Pasta Gremlin",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964227085184925696/IMG_20220414_191328_510.jpg",
+        "ctg": "ma",
+        "hp": 12,
+        "atk": 10,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t8": {
+        "name": "Temptress",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964229604984381470/IMG_20220414_191324_377.jpg",
+        "ctg": "ma",
+        "hp": 27,
+        "atk": 7,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t9": {
+        "name": "Happy Meat Shield",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964229743782285352/IMG_20220414_191315_256.jpg",
+        "ctg": "mt",
+        "hp": 35,
+        "atk": 0,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t10": {
+        "name": "Deranged Meat Shield",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964230097466966119/Screenshot_20220406_114342_com.snapchat.android.jpg",
+        "ctg": "ma",
+        "hp": 30,
+        "atk": 0,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t11": {
+        "name": "Broken Gangster",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964226627150164009/IMG_20210731_181733.jpg",
+        "ctg": "mt",
+        "hp": 10,
+        "atk": 15,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t12": {
+        "name": "Minor Shadester",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964230962013667419/IMG_20220328_105204.jpg",
+        "ctg": "mt",
+        "hp": 12,
+        "atk": 20,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t13": {
+        "name": "Enchanted Mugshot",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964232456611962981/IMG_20201202_104334.jpg",
+        "ctg": "ma",
+        "hp": 15,
+        "atk": 25,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t14": {
+        "name": "Gangster Family",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964233824898805851/IMG_20220202_133705.jpg",
+        "ctg": "mt",
+        "hp": 40,
+        "atk": 30,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t15": {
+        "name": "YoYo Boy",
+        "thumb": "https://cdn.discordapp.com/attachments/664461338466189312/963792834174025759/received_421448516454820.jpeg",
+        "ctg": "ch",
+        "hp": 35,
+        "atk": 45,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "t16": {
+        "name": "Victorian Gangster Family",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964246655861932042/20220414_143255.jpg",
+        "ctg": "mt",
+        "hp": 50,
+        "atk": 20,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "w1": {
+        "name": "Crab Boy",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964225672853729310/Screenshot_20220209_220649_com.snapchat.android.jpg",
+        "ctg": "mt",
+        "hp": 75,
+        "atk": 25,
+        "cp": 20,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "w2": {
+        "name": "Lobster Boy",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964226081857110106/IMG_20220201_135845.jpg",
+        "ctg": "ma",
+        "hp": 75,
+        "atk": 25,
+        "cp": 20,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "w3": {
+        "name": "Hoodie Lord",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964230654374072330/IMG_20211125_132756.jpg",
+        "ctg": "ma",
+        "hp": 50,
+        "atk": 20,
+        "cp": 15,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "w4": {
+        "name": "Shades Lord",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964231203408453712/IMG_20220328_105151.jpg",
+        "ctg": "ch",
+        "hp": 85,
+        "atk": 32,
+        "cp": 10,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "w5": {
+        "name": "Strategist Gray",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964233869270319184/Screenshot_20220414_194017_com.snapchat.android.jpg",
+        "ctg": "ch",
+        "hp": 40,
+        "atk": 35,
+        "cp": 30,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "w6": {
+        "name": "Money Man",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964241525708038194/20220131_135357.jpg",
+        "ctg": "mt",
+        "hp": 35,
+        "atk": 10,
+        "cp": 30,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "i1": {
+        "name": "Rickster Trickster",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964230776134729788/download.jpeg",
+        "ctg": "ch",
+        "hp": 150,
+        "atk": 50,
+        "cp": 30,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "i2": {
+        "name": "Grandmaster Grandfather Gray",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964243014761447535/20220314_120704.jpg",
+        "ctg": "ch",
+        "hp": 120,
+        "atk": 35,
+        "cp": 75,
+        "market": [0, 0, 0, 0, 0]
+    },
+    "c1": {
+        "name": "The Backstab",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964231752728055848/IMG_20220318_105729.jpg",
+        "market": [0, 0, 0, 0, 0]
+    },
+    "c2": {
+        "name": "The Vent",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964232057465212958/IMG_20220301_135736.jpg",
+        "market": [0, 0, 0, 0, 0]
+    },
+    "c3": {
+        "name": "Charitable Donation",
+        "thumb": "https://cdn.discordapp.com/attachments/938557874257399821/964232713139802162/IMG_20201205_151353.jpg",
+        "market": [0, 0, 0, 0, 0]
+    }
+}
